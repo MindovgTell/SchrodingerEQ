@@ -1,0 +1,6 @@
+# sys files
+.DS_store
+.vscode
+
+#external lib
+eigen 
