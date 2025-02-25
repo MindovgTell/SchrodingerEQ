@@ -2,5 +2,5 @@
 .DS_store
 .vscode
 
-#external lib
+#external library
 eigen 
